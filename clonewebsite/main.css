@@ -12,7 +12,7 @@ body{
 
 #nav-bar{
     color:#fff;
-    margin-left: 200px;
+    margin-left: 135px;
     position: absolute;
     top: 8px;
 }
@@ -20,6 +20,7 @@ body{
 .nav{
     display: flex;
     justify-content: row;
+    list-style: none;
 }
 
 .nav-title{
@@ -37,12 +38,17 @@ body{
     font: 12px D-DIN-Regular,Arial,Verdana,sans-serif;
 }
 
+.spacex{
+    font-size: 40px;
+}
+
 #text1{
     color:#fff;
-    margin-left: 200px;
+    margin-left: 100px;
     position: absolute;
-    bottom: 8px;
-    margin-bottom: 220px;
+    right: 1000px;
+    top: 400px;
+    margin-bottom: 150px;
     font-size: 20px;
 }
 
@@ -61,6 +67,36 @@ body{
     font-size: 48px;
 }
 
+#text2{
+    color:#fff;
+    margin-left: 100px;
+    position: absolute;
+    top: 1100px;
+    right: 930px;
+    margin-bottom: 150px;
+    font-size: 20px;
+}
+
+#text3{
+    color:#fff;
+    margin-left: 100px;
+    position: absolute;
+    top: 1850px;
+    right: 950px;
+    margin-bottom: 150px;
+    font-size: 20px;
+}
+
+#text4{
+    width: 600px;
+    color:#fff;
+    margin-left: 200px;
+    position: absolute;
+    top: 2480px;
+    right: 800px;
+    margin-bottom: 150px;
+    font-size: 20px;
+}
 
 
 
